@@ -1,0 +1,1 @@
+this test case check the location of a element from an array.
